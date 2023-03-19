@@ -1,0 +1,27 @@
+{
+    "Sz-|~E(8*Z": {
+        "data": "hwQOAA0AAAAAEREREREAABD//////wEAHR8RERERAQAdHxEREREBANAfUVUVEQEAEB9RVRURAQAQHxEREREBABAfEREREQEAEB9RVRURAQAQH1FVFREBABAfEREREQEAEB8RERERAQAQ//////8BAAAREREREQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Charger"
+    },
+    "_o*ElMMb9Txj7T}L$)_j": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERERERERERER8f///////x/x////////H/Gf//////8f8Zn5/////x/xn////5//H/H/////mfkf8f////+f/x/xn///////H/GZ+f////8f8Z///////x/x////////Hw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "image2": {
+        "data": "hwQQABAAAADx////////H/Gf//////8f8Zn5/////x/xn///////H/H/////n/8f8f////+Z+R/xn////5//H/GZ+f////8f8Z///////x/x////////H/H///////8fEREREREREREREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player2"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzo6qqqqqqqqqjqqqqqqqqqqOqqqqqqqqqowAAoKqqqqqjAACgqqqqqqMAAKCqqqqqowAAoKqqqqqjAACgqqqqqqMAAKBaqqqqo6qqqlWlqqqjqqqqWqqqqqOqqqqqqqqqMzMzMzMzMzMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
