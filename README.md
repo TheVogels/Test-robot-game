@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://thevogels.github.io/test-robot-game/](https://thevogels.github.io/test-robot-game/)
+> Open this page at [https://thevogels.github.io/test-robot-game/](https://thevogels.github.io/Test-robot-game/)
 
 ## Use as Extension
 
